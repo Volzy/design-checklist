@@ -16,6 +16,14 @@ This is NOT a set in stone "my way or the high way" document. This is a checklis
 ### CTAs
 - [ ] Consistency on "save" actions. Either always click a "submit" button or always auto-save.
 
+### Modals
+_modals, overlays, popups, alerts, etc._
+- [ ] No double modals _(indicates a broken user experience if we're forced to do a modal on top a modal)_
+- [ ] Modals can be closed on button AND clicking the dimmed background
+
+### Shown/hiddens menus
+- [ ] Use click actions to activate _(using hover/mouseover might trigger section unintentionally by user)_
+
 ### Viewport
 - [ ] First section doesn't take up whole viewport height size _(at least give user an indication that more is to come by scrolling/clicking)_.
 
