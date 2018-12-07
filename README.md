@@ -15,10 +15,10 @@ This is NOT a set in stone "my way or the high way" document. This is a checklis
 
 ### Content
 - [ ] Design is not only useful with "perfect" data.
-- [ ] Design does not dictate content.
+- [ ] Design does not restrict content to "perfect" data.
 
 ### Search
-- [ ] Search is visibile on page (if only visible by click, then at least autofocus search field when clicked).
+- [ ] Search is visible on page (if only visible by click, then at least autofocus search field when clicked).
 
 ### Headings
 - [ ] Headings follow an ordering pattern (e.g. .h1 more prominent than .h2 and .h3, etc).
