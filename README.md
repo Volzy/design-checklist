@@ -26,6 +26,10 @@ This is NOT a set in stone "my way or the high way" document. This is a checklis
 ### Input fields
 - [ ] Text inputs has labels (not only placeholders).
 - [ ] Text inputs take advantage of native scrollwheels on mobile (e.g. datetime-local).
+- [ ] Show restrictions to input up front (e.g. "We only accept VISA and MasterCard" or "Should be a valid email format")
 
 ### Selects / Dropdowns
 - [ ] Select inputs doesn't disable native behavior (e.g. scrollwheel on mobile).
+
+### Errors
+- [ ] Show all possible errors at once to prevent circle feedback and multiple user tries
