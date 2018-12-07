@@ -13,6 +13,9 @@ This is NOT a set in stone "my way or the high way" document. This is a checklis
 - [ ] How does this look like on tablet/desktop (in case of mobile first approach)
 - [ ] How does tihs look like on mobile (in case of desktop first/only approach)
 
+### CTAs
+- [ ] Consistency on "save" actions. Either always click a "submit" button or always auto-save.
+
 ### Viewport
 - [ ] First section doesn't take up whole viewport height size _(at least give user an indication that more is to come by scrolling/clicking)_.
 
