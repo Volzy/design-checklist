@@ -15,6 +15,7 @@ This is NOT a set in stone "my way or the high way" document. This is a checklis
 
 ### CTAs
 - [ ] Consistency on "save" actions. Either always click a "submit" button or always auto-save.
+- [ ] How does the CTA look when in hover/active state.
 
 ### Modals
 _modals, overlays, popups, alerts, etc._
